@@ -1,5 +1,7 @@
 
 🏥 Healthcare Disease Prediction System
+
+
 📌 Project Overview
 This project is an AI-powered healthcare disease prediction system designed to predict the likelihood of diseases such as COVID-19, heart attack, diabetes, etc. based on patient symptoms or uploaded medical reports.
 The solution leverages Machine Learning & Deep Learning models and is deployed on Azure for real-time predictions.
