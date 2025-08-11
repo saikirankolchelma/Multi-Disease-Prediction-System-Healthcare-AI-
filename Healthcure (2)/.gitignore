@@ -1,0 +1,65 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment folders
+env/
+venv/
+ENV/
+.venv/
+
+# VSCode settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Model weights and binaries
+*.h5
+*.pkl
+*.sav
+*.dat
+*.joblib
+*.pt
+
+# Data files (ignore raw data, but allow sample/example data if needed)
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.json
+*.db
+*.sqlite
+*.zip
+
+# Logs
+*.log
+logs/
+output/
+outputs/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.bak
+*.tmp
+*.swp
+
+# Ignore credentials or sensitive files
+*.env
+.env
+config.json
+secrets.json
+
+# Flask specific (instance folder for config/runtime files)
+instance/
+
+# Ignore OneDrive temporary/sync files (since you're using OneDrive)
+~$*
+*.lnk

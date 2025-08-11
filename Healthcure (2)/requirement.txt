@@ -1,0 +1,8 @@
+opencv-python 
+tensorflow
+numpy
+sklearn
+imutils
+ flask
+ xgboost
+
