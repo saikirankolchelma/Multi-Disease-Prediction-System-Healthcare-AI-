@@ -51,20 +51,19 @@ GitHub Actions (CI/CD Pipeline)
 
 📂 Project Structure
 graphql
-Copy
-Edit
-Healthcare-Disease-Prediction/
-│
-├── data/                     # Datasets (symptoms & medical reports)
-├── notebooks/                # Jupyter notebooks for EDA & model building
-├── models/                   # Trained ML/DL models (.pkl / .h5 files)
-├── static/                   # CSS, JS, and images for UI
-├── templates/                # HTML templates for Flask
-├── app.py                    # Main Flask application
-├── requirements.txt          # Python dependencies
-├── README.md                 # Project documentation
-└── deployment/               # Azure deployment configs
-📊 Workflow
+
+    Healthcare-Disease-Prediction/
+    │
+    ├── data/                     # Datasets (symptoms & medical reports)
+    ├── notebooks/                # Jupyter notebooks for EDA & model building
+    ├── models/                   # Trained ML/DL models (.pkl / .h5 files)
+    ├── static/                   # CSS, JS, and images for UI
+    ├── templates/                # HTML templates for Flask
+    ├── app.py                    # Main Flask application
+    ├── requirements.txt          # Python dependencies
+    ├── README.md                 # Project documentation
+    └── deployment/               # Azure deployment configs
+    📊 Workflow
 Data Collection
 
 Public healthcare datasets (Kaggle, WHO, CDC)
